@@ -1,4 +1,13 @@
-# portfolio-project
+# AnimalGame - portfolio-project
+
+An animal-themed abstract board game implemented in Python.  
+The game is played on a 7x7 grid using algebraic notation (columns `a-g`, rows `1-7`).
+
+**Features**
+- Implements custom rules for piece movement.
+- Tracks player turns (Tangerine vs Amethyst).
+- Validates moves and game state.
+- Command-line interface for interaction.
 
 Write a class named **AnimalGame** for playing an animal-themed abstract board game, described below.
 
